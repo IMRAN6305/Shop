@@ -7,7 +7,7 @@ class git_hub extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
 
-      body: Text('I am changeing the code in my git_hub dart file ok'),
+      body: Text('I am changeing the code in my git_hub dart file'),
     );
   }
 }
